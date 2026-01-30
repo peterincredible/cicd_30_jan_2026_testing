@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /home/ec2-user #/var/www/node-app
+    destination: /var/www/node-app #/home/ec2-user #/var/www/node-app
     overwrite: true
 
 hooks:
