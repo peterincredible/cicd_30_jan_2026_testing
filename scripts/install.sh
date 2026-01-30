@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /var/www/node-app
+# cd /var/www/node-app
 npm install
