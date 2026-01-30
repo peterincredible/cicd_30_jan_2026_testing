@@ -1,5 +1,5 @@
 #!/bin/bash
-source /root/.bash_profile
+source /home/ec2-user/.bash_profile
 cd /var/www/node-app
 # cd /var/www/node-app #/home/ec2-user
 sudo chmod -R 777 /var/www/node-app
